@@ -17,7 +17,7 @@
  body{
     margin:0;
     padding: 0px;
-    background-image: linear-gradient(to right bottom, RED,white,green);
+    background-color: linear-gradient(to right bottom, RED,white,green);
     height: 100vh;
  }
  
